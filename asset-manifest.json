@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsChaska/static/css/main.f855e6bc.css",
+    "main.js": "/NewsChaska/static/js/main.fef557f3.js",
+    "static/js/453.60489ee4.chunk.js": "/NewsChaska/static/js/453.60489ee4.chunk.js",
+    "static/media/loading.gif": "/NewsChaska/static/media/loading.112e67a1d0c1c17f8dc1.gif",
+    "index.html": "/NewsChaska/index.html",
+    "main.f855e6bc.css.map": "/NewsChaska/static/css/main.f855e6bc.css.map",
+    "main.fef557f3.js.map": "/NewsChaska/static/js/main.fef557f3.js.map",
+    "453.60489ee4.chunk.js.map": "/NewsChaska/static/js/453.60489ee4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.fef557f3.js"
+  ]
+}
